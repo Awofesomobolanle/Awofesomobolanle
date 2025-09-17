@@ -61,7 +61,7 @@ Hi there! 👋 I'm *OmoBolanle Risikat Awofeso*, a passionate and hands-on  Cybe
 | 01-home-lab | Building a multi-VM cybersecurity lab | [View Repo](https://github.com/Awofesomobolanle/Setting-Up-A-Virtual-Home-Lab.git) |
 | 02-ad-deployment | Installing and hardening Active Directory | [View Repo](https://github.com/Awofesomobolanle/-Active-Directory-Simulation-CyberTouch-Solutions.git) |
 | 03-AWS-deployment | Configuration and hardening Cloud console in AWS | [View Repo](https://github.com/Awofesomobolanle/AWS-IAM-Cloud-Security-Project-Report.git) |
-| 04-security-policy-dev | Crafting AUP, PasswordPolicy, and PMP policies | [View Repo]() |
+| 04-security-policy-dev | Crafting AUP, PasswordPolicy, and PMP policies | [View Repo](https://github.com/Awofesomobolanle/Crafting-AUP-Password-and-ACL-Policies.git) |
 | 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](#) |
 | 06-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
 | 07-risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
