@@ -80,7 +80,7 @@ Hi there! 👋 I'm *OmoBolanle Risikat Awofeso*, a passionate and hands-on  Cybe
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/omobolanle-risikat-awofeso)  
 - ✉ Email: awofesomobolanle@gmail.com
-- 🌐 Portfolio Site (on going)
+- 🌐 Portfolio Site (Ongoing – actively adding projects and improvements)
 
 ---
 
